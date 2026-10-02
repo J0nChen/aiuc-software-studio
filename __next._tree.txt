@@ -1,4 +1,4 @@
-:HL["/aiuc-software-studio/_next/static/chunks/16sh40~swk-_4.css","style"]
+:HL["/aiuc-software-studio/_next/static/chunks/183e-mqxa7l~b.css","style"]
 :HC["/",""]
 :HL["/aiuc-software-studio/aiuc-wordmark-white.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"H-Kntj4iWo1M2ac-D6GkC"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"8dYSXYnSIPp721g8Z6Mm3"}
